@@ -1,4 +1,4 @@
-# open_dev
+# ppb / PursuedPyBear Tutorial
 
 On Local:
 - `python3 -m venv .venv`
